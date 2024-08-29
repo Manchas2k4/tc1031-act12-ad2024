@@ -27,6 +27,7 @@ La salida constará de un tablero de puntuación ordenado como se describió ant
 ## Entrada de muestra
 ```
 1
+
 1 2 10 I
 3 1 11 C
 1 2 19 R
@@ -38,4 +39,5 @@ La salida constará de un tablero de puntuación ordenado como se describió ant
 ```
 1 2 66
 3 1 11
+
 ```
