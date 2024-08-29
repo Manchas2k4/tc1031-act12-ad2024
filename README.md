@@ -41,3 +41,4 @@ La salida constará de un tablero de puntuación ordenado como se describió ant
 3 1 11
 
 ```
+[Fuente](https://onlinejudge.org/external/102/10258.pdf)
